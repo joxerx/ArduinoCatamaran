@@ -1,2 +1,2 @@
 # ArduinoCatamaran
-Радиоуправляемый катамаран с двумя винтами
+Twin screw RC catamaran project on Arduino
